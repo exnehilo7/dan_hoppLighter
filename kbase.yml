@@ -2,13 +2,13 @@ module-name:
     dan_hoppLighter
 
 module-description:
-    A KBase module
+    KBase module that wraps the Lighter tool for correcting paired-end Illumina sequencing reads.
 
 service-language:
     python
 
 module-version:
-    0.0.1
+    0.1.0
 
 owners:
     [dan_hopp, allenbh, zcrockett]
